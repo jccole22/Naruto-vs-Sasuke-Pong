@@ -19,7 +19,7 @@ BAR_WIDTH = 10
 MIDDLE_BAR = pygame.Rect(WIDTH//2 - BAR_WIDTH//2, 0, BAR_WIDTH, HEIGHT)
 
 
-BEAM_HIT_SOUND = pygame.mixer.Sound(os.path.join('Assets', 'Hit-moan.mp3'))
+BEAM_HIT_SOUND = pygame.mixer.Sound(os.path.join('Assets', 'hit-ow.mp3'))
 BEAM_BLAST_SOUND = pygame.mixer.Sound(os.path.join('Assets', 'beam-blast.mp3'))
 WIN_SOUND = pygame.mixer.Sound(os.path.join('Assets', 'win-sound.mp3'))
 print(BEAM_HIT_SOUND.get_volume())
