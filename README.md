@@ -4,11 +4,11 @@ Basic pong style game created with pygame designed to finally decide the battle 
 
 
 ## How to play
-Start game with "python main.py"
-Naruto - w+a+s+d for movement and L_CTRL for shoot
-Sasuke - up+down+left+right for movement and R_CTRL for shoot
+Start game with `python main.py`
+- Naruto - w+a+s+d for movement and L_CTRL for shoot
+- Sasuke - up+down+left+right for movement and R_CTRL for shoot
 
 
 ## Change shoot keys
-Naruto - main.py on line 169
-Sasuke - main.py on line 176
+- Naruto - main.py on line 169
+- Sasuke - main.py on line 176
